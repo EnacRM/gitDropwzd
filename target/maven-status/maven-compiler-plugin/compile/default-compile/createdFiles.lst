@@ -1,0 +1,7 @@
+com\mycompany\dropwizardprueba\dropwizardPruebaConfiguration.class
+com\mycompany\dropwizardprueba\CarsResource.class
+com\mycompany\dropwizardprueba\TemplateHealthCheck.class
+com\mycompany\dropwizardprueba\HelloWorldResource.class
+com\mycompany\dropwizardprueba\Saying.class
+com\mycompany\dropwizardprueba\dropwizardPruebaApplication.class
+com\mycompany\dropwizardprueba\Saying2.class

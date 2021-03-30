@@ -1,0 +1,9 @@
+template: Hola, %s, espero que pases un buen dia!
+defaultName: David
+coches:
+  - Ferrari
+  - BMW
+  - Toyota
+  - Bugati 
+  - Opel
+  - Audi
